@@ -2,6 +2,10 @@
 
 This project provides a database schema and structure designed to effectively track and manage loan information. Do star this project. Created by Abhishek Jhingran: abhishekjhingran7@gmail.com
 
+## Database Schema
+
+![Database Schema](Loan%20Management%20Database.png)
+
 ## Key Features
 
 * **Loan Tracking:** The core functionality is to store comprehensive loan details, including borrower information, loan type, amount, tenure, interest rates, start and end dates, and status.
